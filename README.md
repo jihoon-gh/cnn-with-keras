@@ -16,3 +16,4 @@
 2. 데이터 추가 (이미지 자체를 늘리기 OR 이미지를 변형하여 추가하기)
 3. epoch를 늘리고, call_back 추가
 4. 데이터 형태 변형 (정사각형 형태로) -> conv layer 추가
+5. hyper parameter 미세조정
